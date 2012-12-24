@@ -1,0 +1,31 @@
+{
+    "name" : "subdir",
+    "version" : "0.0.0",
+    "description" : "return whether a path is a sub-path",
+    "main" : "index.js",
+    "devDependencies" : {
+        "tap" : "~0.3.3",
+        "tape" : "~0.1.5"
+    },
+    "scripts" : {
+        "test" : "tap test/*.js"
+    },
+    "repository" : {
+        "type" : "git",
+        "url" : "git://github.com/substack/subdir.git"
+    },
+    "homepage" : "https://github.com/substack/subdir",
+    "keywords" : [
+        "parent",
+        "directory",
+        "path",
+        "subdirectory",
+        "subpath"
+    ],
+    "author" : {
+        "name" : "James Halliday",
+        "email" : "mail@substack.net",
+        "url" : "http://substack.net"
+    },
+    "license" : "MIT"
+}
