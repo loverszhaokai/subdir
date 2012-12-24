@@ -6,6 +6,8 @@ This module doesn't do any IO, only pure path computations.
 
 [![browser support](http://ci.testling.com/substack/subdir.png)](http://ci.testling.com/substack/subdir)
 
+[![build status](https://secure.travis-ci.org/substack/subdir.png)](http://travis-ci.org/substack/subdir)
+
 # example
 
 ``` js
