@@ -22,6 +22,14 @@
         "subdirectory",
         "subpath"
     ],
+    "testling" : {
+        "files" : "test/*.js",
+        "browsers" : [
+            "ie8", "ie9",
+            "chrome/20", "firefox/15",
+            "safari/5.1", "opera/12"
+        ]
+    },
     "author" : {
         "name" : "James Halliday",
         "email" : "mail@substack.net",

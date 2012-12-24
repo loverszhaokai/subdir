@@ -4,6 +4,8 @@ Return whether a path is a sub-path.
 
 This module doesn't do any IO, only pure path computations.
 
+[![browser support](http://ci.testling.com/substack/subdir.png)](http://ci.testling.com/substack/subdir)
+
 # example
 
 ``` js
