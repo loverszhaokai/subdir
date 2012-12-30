@@ -1,6 +1,6 @@
 {
     "name" : "subdir",
-    "version" : "0.0.0",
+    "version" : "0.0.1",
     "description" : "return whether a path is a sub-path",
     "main" : "index.js",
     "devDependencies" : {
