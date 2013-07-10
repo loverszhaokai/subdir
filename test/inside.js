@@ -50,5 +50,9 @@ test(function (t) {
         subdir('/', '/beep/boop'),
         true
     );
+    t.equal(
+        subdir('/', '/'),
+        false
+    );
     t.end();
 });
